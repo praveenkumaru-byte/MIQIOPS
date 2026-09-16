@@ -3,6 +3,7 @@
 import streamlit as st
 import pandas as pd
 import os
+from utils.utils import save_csv_to_github  # <-- Add import
 
 # Path to your CSV (Adjust if your folder structure is different)
 RBAC_FILE = "data/RBAC.csv"
@@ -108,15 +109,14 @@ def render(access_code: str = "R") -> None:
                 
                 # Reset index and save
                 df.reset_index(inplace=True)
-                df.to_csv(RBAC_FILE, index=False)
-                
-                st.success("✅ Permissions updated successfully!")
-                
-                # Optional: Clear cache so app re-reads RBAC immediately
-                st.cache_data.clear()
+                success = save_csv_to_github("RBAC.csv", df, "Update RBAC permissions from Admin UI")
+                if success:
+                    st.success("✅ Permissions updated and synced to GitHub!")
+                    st.cache_data.clear()
                 
             except Exception as e:
                 st.error(f"Failed to save changes: {e}")
+
 
     # 7. LEGEND
     with st.expander("ℹ️ Permission Legend"):

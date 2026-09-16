@@ -1,10 +1,12 @@
+# views/p6_creation.py
+
 import streamlit as st
 import pandas as pd
 from datetime import datetime, timedelta
 import time
 import os
 import random
-from utils.utils import load_csv, DATA_DIR
+from utils.utils import load_csv, save_csv_to_github, DATA_DIR
 
 # --- CONSTANTS & PATHS ---
 FLEET_PATH = os.path.join(DATA_DIR, "fleet_status.csv")
@@ -117,7 +119,6 @@ def render(access_code: str = "R"):
     with st.container(border=True):
         c1, c2 = st.columns(2)
         with c1:
-            # --- FIX: DATA CLEANING FOR SITE LIST ---
             # Get unique values, filter out NaNs/Floats, ensure they are strings
             raw_sites = site_lookup.index.unique().tolist()
             existing_sites = sorted([str(s) for s in raw_sites if pd.notna(s) and str(s).strip() != ""])
@@ -218,9 +219,7 @@ def render(access_code: str = "R"):
                 f_start_dt = start_date
                 f_end_dt = start_date + timedelta(days=exec_duration)
 
-                # --- STEP 3: WRITE DATA ---
-
-                # A. FLEET STATUS
+                # --- STEP 3: WRITE DATA & GITHUB SYNC ---
                 new_fleet_row = {
                     "Site Name": sel_site,
                     "Code": site_details["Code"],
@@ -235,7 +234,6 @@ def render(access_code: str = "R"):
                     "OutageUID": outage_uid
                 }
 
-                # B. SUPERMASTER
                 df_master_new = pd.DataFrame(new_master_rows)
                 schema_cols = ["OutageUID", "Site Name", "Project ID", "Description", "Asset", 
                                "Sub-System", "Status", "Tollgate", "Start Date", "End Date", 
@@ -246,33 +244,31 @@ def render(access_code: str = "R"):
                 df_master_new = df_master_new[schema_cols]
 
                 try:
-                    # 1. Fleet
-                    if os.path.exists(FLEET_PATH):
-                        pd.DataFrame([new_fleet_row]).to_csv(FLEET_PATH, mode='a', header=False, index=False)
-                    else:
-                        pd.DataFrame([new_fleet_row]).to_csv(FLEET_PATH, mode='w', header=True, index=False)
+                    # 1. Update and Sync Fleet Status
+                    curr_fleet = load_csv("fleet_status.csv")
+                    new_fleet_df = pd.DataFrame([new_fleet_row])
+                    updated_fleet = pd.concat([curr_fleet, new_fleet_df], ignore_index=True) if not curr_fleet.empty else new_fleet_df
+                    save_csv_to_github("fleet_status.csv", updated_fleet, f"P6: Created Outage {outage_uid}")
 
-                    # 2. Master
-                    if os.path.exists(MASTER_PATH):
-                        df_master_new.to_csv(MASTER_PATH, mode='a', header=False, index=False)
-                    else:
-                        df_master_new.to_csv(MASTER_PATH, mode='w', header=True, index=False)
+                    # 2. Update and Sync Supermaster Projects
+                    curr_master = load_csv("supermaster_project_list.csv")
+                    updated_master = pd.concat([curr_master, df_master_new], ignore_index=True) if not curr_master.empty else df_master_new
+                    save_csv_to_github("supermaster_project_list.csv", updated_master, f"P6: Added line items for {outage_uid}")
                     
-                    # 3. Schedule
+                    # 3. Update and Sync Schedule
                     sched_result = schedule_from_template(subset, start_date)
                     sched_result["OutageUID"] = outage_uid
                     sched_result["ProjectID"] = f"{outage_uid}-EXEC"
                     sched_result["Status"] = "Planned"
-                    if os.path.exists(SCHEDULE_PATH):
-                        sched_result.to_csv(SCHEDULE_PATH, mode='a', header=False, index=False)
-                    else:
-                        sched_result.to_csv(SCHEDULE_PATH, mode='w', header=True, index=False)
-                        # Inside p6_creation.py, after the .to_csv() lines:
-                    st.cache_data.clear()
-                    st.success(f"✅ Outage {outage_uid} created and Tollgates updated!")
+                    
+                    curr_sched = load_csv("schedules.csv")
+                    updated_sched = pd.concat([curr_sched, sched_result], ignore_index=True) if not curr_sched.empty else sched_result
+                    save_csv_to_github("schedules.csv", updated_sched, f"P6: Generated schedule for {outage_uid}")
 
+                    # 4. Clear cache and trigger UI success
+                    st.cache_data.clear()
                     st.balloons()
-                    st.success(f"✅ Outage **{outage_uid}** created successfully!")
+                    st.success(f"✅ Outage **{outage_uid}** created and committed to repository!")
                     st.success(f"📅 Execution Window: {f_start_dt.strftime('%d-%b-%Y')} to {f_end_dt.strftime('%d-%b-%Y')} ({exec_duration} days)")
                     st.info(f"📊 Generated {len(new_master_rows)} project lines (T-24 through T+1) with Contractor Assignments.")
 

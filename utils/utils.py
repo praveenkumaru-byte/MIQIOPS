@@ -5,6 +5,8 @@ from datetime import datetime, timedelta
 import os
 from pathlib import Path
 from st_aggrid import AgGrid, GridOptionsBuilder, JsCode, GridUpdateMode
+import base64
+from github import Github, GithubException
 
 # ==============================================================================
 # 1. FILESYSTEM & SETUP
@@ -266,3 +268,55 @@ def render_styled_aggrid(df, key=None, height=350):
         allow_unsafe_jscode=True,
         key=key
     )
+
+def save_csv_to_github(filename: str, df: pd.DataFrame, commit_message: str = "Update data via Streamlit") -> bool:
+    """
+    Saves a Pandas DataFrame to data/<filename> in both the local runtime 
+    and the remote GitHub repository.
+    """
+    # 1. Local Write (keeps active session immediate)
+    local_path = DATA_DIR / filename
+    df.to_csv(local_path, index=False)
+
+    # 2. Remote GitHub Write via Secrets
+    if "github" not in st.secrets:
+        # Fallback for local dev when no github secrets configured
+        return True
+
+    try:
+        token = st.secrets["github"]["token"]
+        repo_name = st.secrets["github"]["repo"]
+        branch = st.secrets["github"].get("branch", "main")
+        
+        g = Github(token)
+        repo = g.get_repo(repo_name)
+        github_file_path = f"data/{filename}"
+        
+        csv_content = df.to_csv(index=False)
+
+        try:
+            # Check if file already exists on GitHub to obtain its SHA
+            remote_file = repo.get_contents(github_file_path, ref=branch)
+            repo.update_file(
+                path=github_file_path,
+                message=commit_message,
+                content=csv_content,
+                sha=remote_file.sha,
+                branch=branch
+            )
+        except GithubException as ge:
+            if ge.status == 404:
+                # File does not exist yet; create it
+                repo.create_file(
+                    path=github_file_path,
+                    message=commit_message,
+                    content=csv_content,
+                    branch=branch
+                )
+            else:
+                raise ge
+
+        return True
+    except Exception as e:
+        st.error(f"GitHub Sync Error ({filename}): {e}")
+        return False

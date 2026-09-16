@@ -6,3 +6,4 @@ numpy
 streamlit-option-menu
 streamlit-antd-components
 streamlit-aggrid
+PyGithub
