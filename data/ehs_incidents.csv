@@ -1,0 +1,13 @@
+﻿Incident ID,OutageUID,Site Name,Event Date,Category,Severity,Status,Description,Owner
+INC-SG-001,SG_F_EDF_2026_FORCED,South Gen Unit 1,22-01-2026,LOTO Violation,High,Closed,Attempted to operate valve 33-MOV-102 while Blue Tag applied.,Mike Ross
+INC-SG-002,SG_F_EDF_2026_FORCED,South Gen Unit 1,23-01-2026,Environmental,Medium,Closed,Minor glycol leak from temporary chiller hose (~2 gallons).,Harvey Specter
+INC-SG-003,SG_F_EDF_2026_FORCED,South Gen Unit 1,24-01-2026,Safety Observation,Low,Closed,Contractor welding without fire blanket on lower grating.,Donna Paulsen
+INC-SG-004,SG_F_EDF_2026_FORCED,South Gen Unit 1,26-01-2026,First Aid,Low,Closed,Technician pinched finger while racking out breaker.,Mike Ross
+INC-NS-001,NS_MO_2025,North Substation,15-12-2025,Near Miss,High,Closed,Crane load path crossed pedestrian walkway without barricades.,Maria Rodriguez
+INC-NS-002,NS_MO_2025,North Substation,10-01-2026,Safety Observation,Low,Closed,PPE Violation: Safety glasses missing in turbine enclosure.,Maria Rodriguez
+INC-NS-003,NS_MO_2025,North Substation,01-02-2026,Environmental,Medium,Open,Oil sheen observed in transformer containment area during rain.,Steve Jones
+INC-NS-004,NS_MO_2025,North Substation,02-02-2026,LOTO Violation,Critical,Open,Master tag missing from Group Lockbox #4.,Steve Jones
+INC-NS-005,NS_MO_2025,North Substation,05-01-2026,Medical Treatment,Medium,Closed,Foreign debris in eye required flushing at clinic.,Maria Rodriguez
+INC-NS-006,NS_MO_2025,North Substation,20-11-2025,Fire Safety,Low,Closed,Fire extinguisher inspection tag expired in Control Room.,Maria Rodriguez
+INC-NS-007,NS_MO_2025,North Substation,28-01-2026,Near Miss,Medium,Investigating,Scaffolding toe-board loose above walkway.,Steve Jones
+INC-NS-008,NS_MO_2025,North Substation,03-02-2026,Spill,Low,Open,Hydraulic fluid drip from manlift detected.,Steve Jones

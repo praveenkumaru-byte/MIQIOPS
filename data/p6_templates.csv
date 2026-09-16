@@ -1,0 +1,716 @@
+TemplateName,ActivityID,ActivityName,DurationDays,Predecessors,Phase,Responsibility
+Planned - Major Overhaul,MA-1000,T-24: Invoice Rec Planning,30,,T-24,Project Management
+Planned - Major Overhaul,MA-1001,T-24: Scope Definition Planning,30,,T-24,Project Management
+Planned - Major Overhaul,MA-1002,T-24: Grid Bid Planning,30,,T-24,Project Management
+Planned - Major Overhaul,MA-1003,T-24: Invoice Rec Planning,30,,T-24,Project Management
+Planned - Major Overhaul,MA-1004,T-24: Scope Definition Planning,30,,T-24,Project Management
+Planned - Major Overhaul,MA-1005,T-24: Budget Approval Planning,30,,T-24,Project Management
+Planned - Major Overhaul,MA-1006,T-24: Regulatory Permit Planning,30,,T-24,Project Management
+Planned - Major Overhaul,MA-1007,T-24: Invoice Rec Planning,30,,T-24,Project Management
+Planned - Major Overhaul,MA-1008,T-24: Scope Definition Planning,30,,T-24,Project Management
+Planned - Major Overhaul,MA-1009,T-24: Budget Approval Planning,30,,T-24,Project Management
+Planned - Major Overhaul,MA-1010,T-24: Scope Definition Planning,30,,T-24,Project Management
+Planned - Major Overhaul,MA-1011,T-24: Scope Definition Planning,30,,T-24,Project Management
+Planned - Major Overhaul,MA-1012,T-24: Invoice Rec Planning,30,,T-24,Project Management
+Planned - Major Overhaul,MA-1013,T-24: Grid Bid Planning,30,,T-24,Project Management
+Planned - Major Overhaul,MA-1014,T-24: Invoice Rec Planning,30,,T-24,Project Management
+Planned - Major Overhaul,MA-1015,T-24: Regulatory Permit Planning,30,,T-24,Project Management
+Planned - Major Overhaul,MA-1016,T-24: Budget Approval Planning,30,,T-24,Project Management
+Planned - Major Overhaul,MA-1017,T-24: Regulatory Permit Planning,30,,T-24,Project Management
+Planned - Major Overhaul,MA-1018,T-24: Invoice Rec Planning,30,,T-24,Project Management
+Planned - Major Overhaul,MA-1019,T-24: Regulatory Permit Planning,30,,T-24,Project Management
+Planned - Major Overhaul,MA-1020,T-24: Budget Approval Planning,30,,T-24,Project Management
+Planned - Major Overhaul,MA-1021,T-18: Invoice Rec Planning,30,,T-18,Project Management
+Planned - Major Overhaul,MA-1022,T-18: Invoice Rec Planning,30,,T-18,Project Management
+Planned - Major Overhaul,MA-1023,T-18: Budget Approval Planning,30,,T-18,Project Management
+Planned - Major Overhaul,MA-1024,T-18: Regulatory Permit Planning,30,,T-18,Project Management
+Planned - Major Overhaul,MA-1025,T-18: Budget Approval Planning,30,,T-18,Project Management
+Planned - Major Overhaul,MA-1026,T-18: Grid Bid Planning,30,,T-18,Project Management
+Planned - Major Overhaul,MA-1027,T-18: Scope Definition Planning,30,,T-18,Project Management
+Planned - Major Overhaul,MA-1028,T-18: Scope Definition Planning,30,,T-18,Project Management
+Planned - Major Overhaul,MA-1029,T-18: Regulatory Permit Planning,30,,T-18,Project Management
+Planned - Major Overhaul,MA-1030,T-18: Regulatory Permit Planning,30,,T-18,Project Management
+Planned - Major Overhaul,MA-1031,T-18: Budget Approval Planning,30,,T-18,Project Management
+Planned - Major Overhaul,MA-1032,T-18: Grid Bid Planning,30,,T-18,Project Management
+Planned - Major Overhaul,MA-1033,T-18: Budget Approval Planning,30,,T-18,Project Management
+Planned - Major Overhaul,MA-1034,T-18: Grid Bid Planning,30,,T-18,Project Management
+Planned - Major Overhaul,MA-1035,T-18: Invoice Rec Planning,30,,T-18,Project Management
+Planned - Major Overhaul,MA-1036,T-18: Regulatory Permit Planning,30,,T-18,Project Management
+Planned - Major Overhaul,MA-1037,T-18: Invoice Rec Planning,30,,T-18,Project Management
+Planned - Major Overhaul,MA-1038,T-18: Invoice Rec Planning,30,,T-18,Project Management
+Planned - Major Overhaul,MA-1039,T-18: Regulatory Permit Planning,30,,T-18,Project Management
+Planned - Major Overhaul,MA-1040,T-18: Budget Approval Planning,30,,T-18,Project Management
+Planned - Major Overhaul,MA-1041,T-18: Grid Bid Planning,30,,T-18,Project Management
+Planned - Major Overhaul,MA-1042,T-12: Grid Bid Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1043,T-12: Grid Bid Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1044,T-12: Budget Approval Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1045,T-12: Grid Bid Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1046,T-12: Budget Approval Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1047,T-12: Regulatory Permit Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1048,T-12: Invoice Rec Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1049,T-12: Budget Approval Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1050,T-12: Regulatory Permit Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1051,T-12: Budget Approval Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1052,T-12: Grid Bid Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1053,T-12: Grid Bid Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1054,T-12: Invoice Rec Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1055,T-12: Scope Definition Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1056,T-12: Regulatory Permit Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1057,T-12: Regulatory Permit Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1058,T-12: Regulatory Permit Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1059,T-12: Scope Definition Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1060,T-12: Budget Approval Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1061,T-12: Scope Definition Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1062,T-12: Grid Bid Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1063,T-12: Budget Approval Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1064,T-12: Scope Definition Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1065,T-12: Budget Approval Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1066,T-12: Regulatory Permit Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1067,T-12: Regulatory Permit Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1068,T-12: Scope Definition Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1069,T-12: Scope Definition Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1070,T-12: Grid Bid Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1071,T-12: Budget Approval Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1072,T-12: Scope Definition Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1073,T-12: Scope Definition Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1074,T-12: Scope Definition Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1075,T-12: Grid Bid Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1076,T-12: Budget Approval Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1077,T-12: Budget Approval Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1078,T-12: Budget Approval Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1079,T-12: Invoice Rec Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1080,T-12: Regulatory Permit Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1081,T-12: Scope Definition Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1082,T-12: Scope Definition Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1083,T-12: Regulatory Permit Planning,30,,T-12,Project Management
+Planned - Major Overhaul,MA-1084,T-6: Invoice Rec Planning,30,,T-6,Project Management
+Planned - Major Overhaul,MA-1085,T-6: Invoice Rec Planning,30,,T-6,Project Management
+Planned - Major Overhaul,MA-1086,T-6: Scope Definition Planning,30,,T-6,Project Management
+Planned - Major Overhaul,MA-1087,T-6: Scope Definition Planning,30,,T-6,Project Management
+Planned - Major Overhaul,MA-1088,T-6: Scope Definition Planning,30,,T-6,Project Management
+Planned - Major Overhaul,MA-1089,T-6: Grid Bid Planning,30,,T-6,Project Management
+Planned - Major Overhaul,MA-1090,T-6: Budget Approval Planning,30,,T-6,Project Management
+Planned - Major Overhaul,MA-1091,T-6: Invoice Rec Planning,30,,T-6,Project Management
+Planned - Major Overhaul,MA-1092,T-6: Regulatory Permit Planning,30,,T-6,Project Management
+Planned - Major Overhaul,MA-1093,T-6: Grid Bid Planning,30,,T-6,Project Management
+Planned - Major Overhaul,MA-1094,T-6: Budget Approval Planning,30,,T-6,Project Management
+Planned - Major Overhaul,MA-1095,T-6: Grid Bid Planning,30,,T-6,Project Management
+Planned - Major Overhaul,MA-1096,T-6: Grid Bid Planning,30,,T-6,Project Management
+Planned - Major Overhaul,MA-1097,T-6: Scope Definition Planning,30,,T-6,Project Management
+Planned - Major Overhaul,MA-1098,T-6: Grid Bid Planning,30,,T-6,Project Management
+Planned - Major Overhaul,MA-1099,T-6: Scope Definition Planning,30,,T-6,Project Management
+Planned - Major Overhaul,MA-1100,T-6: Invoice Rec Planning,30,,T-6,Project Management
+Planned - Major Overhaul,MA-1101,T-6: Scope Definition Planning,30,,T-6,Project Management
+Planned - Major Overhaul,MA-1102,T-6: Scope Definition Planning,30,,T-6,Project Management
+Planned - Major Overhaul,MA-1103,T-6: Budget Approval Planning,30,,T-6,Project Management
+Planned - Major Overhaul,MA-1104,T-6: Invoice Rec Planning,30,,T-6,Project Management
+Planned - Major Overhaul,MA-1105,T-3: Regulatory Permit Planning,30,,T-3,Project Management
+Planned - Major Overhaul,MA-1106,T-3: Grid Bid Planning,30,,T-3,Project Management
+Planned - Major Overhaul,MA-1107,T-3: Regulatory Permit Planning,30,,T-3,Project Management
+Planned - Major Overhaul,MA-1108,T-3: Grid Bid Planning,30,,T-3,Project Management
+Planned - Major Overhaul,MA-1109,T-3: Regulatory Permit Planning,30,,T-3,Project Management
+Planned - Major Overhaul,MA-1110,T-3: Regulatory Permit Planning,30,,T-3,Project Management
+Planned - Major Overhaul,MA-1111,T-3: Grid Bid Planning,30,,T-3,Project Management
+Planned - Major Overhaul,MA-1112,T-3: Grid Bid Planning,30,,T-3,Project Management
+Planned - Major Overhaul,MA-1113,T-3: Invoice Rec Planning,30,,T-3,Project Management
+Planned - Major Overhaul,MA-1114,T-3: Regulatory Permit Planning,30,,T-3,Project Management
+Planned - Major Overhaul,MA-1115,T-3: Scope Definition Planning,30,,T-3,Project Management
+Planned - Major Overhaul,MA-1116,T-3: Grid Bid Planning,30,,T-3,Project Management
+Planned - Major Overhaul,MA-1117,T-3: Grid Bid Planning,30,,T-3,Project Management
+Planned - Major Overhaul,MA-1118,T-3: Scope Definition Planning,30,,T-3,Project Management
+Planned - Major Overhaul,MA-1119,T-3: Regulatory Permit Planning,30,,T-3,Project Management
+Planned - Major Overhaul,MA-1120,T-3: Grid Bid Planning,30,,T-3,Project Management
+Planned - Major Overhaul,MA-1121,T-3: Regulatory Permit Planning,30,,T-3,Project Management
+Planned - Major Overhaul,MA-1122,T-3: Regulatory Permit Planning,30,,T-3,Project Management
+Planned - Major Overhaul,MA-1123,T-3: Grid Bid Planning,30,,T-3,Project Management
+Planned - Major Overhaul,MA-1124,T-3: Budget Approval Planning,30,,T-3,Project Management
+Planned - Major Overhaul,MA-1125,T-3: Regulatory Permit Planning,30,,T-3,Project Management
+Planned - Major Overhaul,MA-1126,T-1: Stack Damper Planning,30,,T-1,HRSG
+Planned - Major Overhaul,MA-1127,T-1: Stack Damper Planning,30,,T-1,HRSG
+Planned - Major Overhaul,MA-1128,T-1: Confined Space Setup Planning,30,,T-1,Safety
+Planned - Major Overhaul,MA-1129,T-1: Confined Space Setup Planning,30,,T-1,Safety
+Planned - Major Overhaul,MA-1130,T-1: Bucket Exchange Planning,30,,T-1,Gas Turbine
+Planned - Major Overhaul,MA-1131,T-1: Condenser Clean Planning,30,,T-1,BOP
+Planned - Major Overhaul,MA-1132,T-1: HP Shell Removal Planning,30,,T-1,Steam Turbine
+Planned - Major Overhaul,MA-1133,T-1: Stop Valve Insp Planning,30,,T-1,Steam Turbine
+Planned - Major Overhaul,MA-1134,T-1: Catalyst Sample Planning,30,,T-1,HRSG
+Planned - Major Overhaul,MA-1135,T-1: Confined Space Setup Planning,30,,T-1,Safety
+Planned - Major Overhaul,MA-1136,T-1: Safety Audit Planning,30,,T-1,Safety
+Planned - Major Overhaul,MA-1137,T-1: Catalyst Sample Planning,30,,T-1,HRSG
+Planned - Major Overhaul,MA-1138,T-1: Wedge Check Planning,30,,T-1,Generator
+Planned - Major Overhaul,MA-1139,T-1: Wedge Check Planning,30,,T-1,Generator
+Planned - Major Overhaul,MA-1140,T-1: Wedge Check Planning,30,,T-1,Generator
+Planned - Major Overhaul,MA-1141,T-1: Robotic Insp Planning,30,,T-1,Generator
+Planned - Major Overhaul,MA-1142,T-1: Tube Thickness Check Planning,30,,T-1,HRSG
+Planned - Major Overhaul,MA-1143,T-1: Control Valve Lapping Planning,30,,T-1,Steam Turbine
+Planned - Major Overhaul,MA-1144,T-1: Combustion Swap Planning,30,,T-1,Gas Turbine
+Planned - Major Overhaul,MA-1145,T-1: Robotic Insp Planning,30,,T-1,Generator
+Planned - Major Overhaul,MA-1146,T-1: Exciter Diode Check Planning,30,,T-1,Generator
+Planned - Major Overhaul,MA-1147,Drum Insp - Area 2,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1148,Diaphragm Clean - Area 1,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1149,LP Hood Open - Area 3,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1150,Catalyst Sample - Area 4,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1151,Circ Pump Rebuild - Area 1,5,,Execution,BOP
+Planned - Major Overhaul,MA-1152,Wedge Check - Area 3,5,,Execution,Generator
+Planned - Major Overhaul,MA-1153,Compressor Blade Insp - Area 3,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1154,Stop Valve Insp - Area 1,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1155,Compressor Blade Insp - Area 4,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1156,HP Shell Removal - Area 4,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1157,Robotic Insp - Area 1,5,,Execution,Generator
+Planned - Major Overhaul,MA-1158,Rotor Insp - Area 1,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1159,Catalyst Sample - Area 1,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1160,Robotic Insp - Area 4,5,,Execution,Generator
+Planned - Major Overhaul,MA-1161,Safety Audit - Area 1,5,,Execution,Safety
+Planned - Major Overhaul,MA-1162,Stack Damper - Area 3,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1163,HP Shell Removal - Area 2,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1164,Catalyst Sample - Area 3,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1165,Combustion Swap - Area 3,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1166,Robotic Insp - Area 3,5,,Execution,Generator
+Planned - Major Overhaul,MA-1167,Exciter Diode Check - Area 1,5,,Execution,Generator
+Planned - Major Overhaul,MA-1168,Turbine Shell Lift - Area 1,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1169,Bucket Exchange - Area 2,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1170,Wedge Check - Area 2,5,,Execution,Generator
+Planned - Major Overhaul,MA-1171,Diaphragm Clean - Area 2,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1172,Transformer Oil - Area 3,5,,Execution,BOP
+Planned - Major Overhaul,MA-1173,Robotic Insp - Area 3,5,,Execution,Generator
+Planned - Major Overhaul,MA-1174,Turbine Shell Lift - Area 3,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1175,Exciter Diode Check - Area 4,5,,Execution,Generator
+Planned - Major Overhaul,MA-1176,Robotic Insp - Area 4,5,,Execution,Generator
+Planned - Major Overhaul,MA-1177,Compressor Blade Insp - Area 1,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1178,Circ Pump Rebuild - Area 1,5,,Execution,BOP
+Planned - Major Overhaul,MA-1179,IGV Bushing - Area 1,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1180,Drum Insp - Area 2,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1181,Stop Valve Insp - Area 2,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1182,Inlet Filter - Area 2,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1183,Condenser Clean - Area 4,5,,Execution,BOP
+Planned - Major Overhaul,MA-1184,Control Valve Lapping - Area 3,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1185,Exciter Diode Check - Area 3,5,,Execution,Generator
+Planned - Major Overhaul,MA-1186,Wedge Check - Area 2,5,,Execution,Generator
+Planned - Major Overhaul,MA-1187,Exciter Diode Check - Area 1,5,,Execution,Generator
+Planned - Major Overhaul,MA-1188,IGV Bushing - Area 3,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1189,Bucket Exchange - Area 4,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1190,Combustion Swap - Area 3,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1191,Wedge Check - Area 2,5,,Execution,Generator
+Planned - Major Overhaul,MA-1192,LP Hood Open - Area 2,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1193,Exciter Diode Check - Area 4,5,,Execution,Generator
+Planned - Major Overhaul,MA-1194,Control Valve Lapping - Area 4,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1195,Safety Audit - Area 4,5,,Execution,Safety
+Planned - Major Overhaul,MA-1196,Inlet Filter - Area 2,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1197,Stack Damper - Area 1,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1198,Air Monitoring - Area 2,5,,Execution,Safety
+Planned - Major Overhaul,MA-1199,LP Hood Open - Area 1,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1200,Exciter Diode Check - Area 2,5,,Execution,Generator
+Planned - Major Overhaul,MA-1201,Bucket Exchange - Area 4,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1202,Turbine Shell Lift - Area 4,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1203,Drum Insp - Area 4,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1204,Robotic Insp - Area 4,5,,Execution,Generator
+Planned - Major Overhaul,MA-1205,Diaphragm Clean - Area 4,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1206,Confined Space Setup - Area 4,5,,Execution,Safety
+Planned - Major Overhaul,MA-1207,Confined Space Setup - Area 4,5,,Execution,Safety
+Planned - Major Overhaul,MA-1208,Combustion Swap - Area 4,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1209,Safety Audit - Area 4,5,,Execution,Safety
+Planned - Major Overhaul,MA-1210,Diaphragm Clean - Area 3,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1211,LOTO Walkdown - Area 2,5,,Execution,Safety
+Planned - Major Overhaul,MA-1212,Stop Valve Insp - Area 2,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1213,Confined Space Setup - Area 1,5,,Execution,Safety
+Planned - Major Overhaul,MA-1214,Compressor Blade Insp - Area 1,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1215,Stop Valve Insp - Area 4,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1216,Circ Pump Rebuild - Area 1,5,,Execution,BOP
+Planned - Major Overhaul,MA-1217,Condenser Clean - Area 1,5,,Execution,BOP
+Planned - Major Overhaul,MA-1218,Catalyst Sample - Area 1,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1219,Switchgear Test - Area 2,5,,Execution,BOP
+Planned - Major Overhaul,MA-1220,Diaphragm Clean - Area 1,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1221,LOTO Walkdown - Area 4,5,,Execution,Safety
+Planned - Major Overhaul,MA-1222,Drum Insp - Area 1,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1223,Condenser Clean - Area 3,5,,Execution,BOP
+Planned - Major Overhaul,MA-1224,Diaphragm Clean - Area 2,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1225,Cooling Tower Fill - Area 2,5,,Execution,BOP
+Planned - Major Overhaul,MA-1226,Drum Insp - Area 1,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1227,HP Shell Removal - Area 4,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1228,Drum Insp - Area 2,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1229,Wedge Check - Area 4,5,,Execution,Generator
+Planned - Major Overhaul,MA-1230,Exciter Diode Check - Area 4,5,,Execution,Generator
+Planned - Major Overhaul,MA-1231,Tube Thickness Check - Area 2,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1232,Robotic Insp - Area 2,5,,Execution,Generator
+Planned - Major Overhaul,MA-1233,Air Monitoring - Area 1,5,,Execution,Safety
+Planned - Major Overhaul,MA-1234,LP Hood Open - Area 4,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1235,Circ Pump Rebuild - Area 1,5,,Execution,BOP
+Planned - Major Overhaul,MA-1236,Wedge Check - Area 4,5,,Execution,Generator
+Planned - Major Overhaul,MA-1237,Drum Insp - Area 4,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1238,Circ Pump Rebuild - Area 4,5,,Execution,BOP
+Planned - Major Overhaul,MA-1239,LP Hood Open - Area 4,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1240,Circ Pump Rebuild - Area 2,5,,Execution,BOP
+Planned - Major Overhaul,MA-1241,Air Monitoring - Area 4,5,,Execution,Safety
+Planned - Major Overhaul,MA-1242,Diaphragm Clean - Area 1,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1243,Condenser Clean - Area 2,5,,Execution,BOP
+Planned - Major Overhaul,MA-1244,Wedge Check - Area 2,5,,Execution,Generator
+Planned - Major Overhaul,MA-1245,Air Monitoring - Area 1,5,,Execution,Safety
+Planned - Major Overhaul,MA-1246,LOTO Walkdown - Area 4,5,,Execution,Safety
+Planned - Major Overhaul,MA-1247,LOTO Walkdown - Area 2,5,,Execution,Safety
+Planned - Major Overhaul,MA-1248,Air Monitoring - Area 3,5,,Execution,Safety
+Planned - Major Overhaul,MA-1249,Stack Damper - Area 4,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1250,Wedge Check - Area 1,5,,Execution,Generator
+Planned - Major Overhaul,MA-1251,LP Hood Open - Area 4,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1252,Confined Space Setup - Area 4,5,,Execution,Safety
+Planned - Major Overhaul,MA-1253,Air Monitoring - Area 1,5,,Execution,Safety
+Planned - Major Overhaul,MA-1254,Air Monitoring - Area 4,5,,Execution,Safety
+Planned - Major Overhaul,MA-1255,Robotic Insp - Area 3,5,,Execution,Generator
+Planned - Major Overhaul,MA-1256,Wedge Check - Area 4,5,,Execution,Generator
+Planned - Major Overhaul,MA-1257,Compressor Blade Insp - Area 1,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1258,LOTO Walkdown - Area 2,5,,Execution,Safety
+Planned - Major Overhaul,MA-1259,Exciter Diode Check - Area 2,5,,Execution,Generator
+Planned - Major Overhaul,MA-1260,Stop Valve Insp - Area 4,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1261,Wedge Check - Area 1,5,,Execution,Generator
+Planned - Major Overhaul,MA-1262,Transformer Oil - Area 4,5,,Execution,BOP
+Planned - Major Overhaul,MA-1263,Confined Space Setup - Area 4,5,,Execution,Safety
+Planned - Major Overhaul,MA-1264,HP Shell Removal - Area 4,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1265,Tube Thickness Check - Area 2,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1266,Bucket Exchange - Area 2,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1267,Circ Pump Rebuild - Area 4,5,,Execution,BOP
+Planned - Major Overhaul,MA-1268,LOTO Walkdown - Area 3,5,,Execution,Safety
+Planned - Major Overhaul,MA-1269,Circ Pump Rebuild - Area 3,5,,Execution,BOP
+Planned - Major Overhaul,MA-1270,Condenser Clean - Area 2,5,,Execution,BOP
+Planned - Major Overhaul,MA-1271,Wedge Check - Area 4,5,,Execution,Generator
+Planned - Major Overhaul,MA-1272,Diaphragm Clean - Area 4,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1273,Wedge Check - Area 3,5,,Execution,Generator
+Planned - Major Overhaul,MA-1274,Circ Pump Rebuild - Area 3,5,,Execution,BOP
+Planned - Major Overhaul,MA-1275,Robotic Insp - Area 3,5,,Execution,Generator
+Planned - Major Overhaul,MA-1276,Stop Valve Insp - Area 4,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1277,Robotic Insp - Area 4,5,,Execution,Generator
+Planned - Major Overhaul,MA-1278,Catalyst Sample - Area 2,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1279,Safety Audit - Area 2,5,,Execution,Safety
+Planned - Major Overhaul,MA-1280,Transformer Oil - Area 1,5,,Execution,BOP
+Planned - Major Overhaul,MA-1281,Catalyst Sample - Area 4,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1282,Circ Pump Rebuild - Area 3,5,,Execution,BOP
+Planned - Major Overhaul,MA-1283,Bucket Exchange - Area 3,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1284,Stack Damper - Area 1,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1285,Wedge Check - Area 2,5,,Execution,Generator
+Planned - Major Overhaul,MA-1286,Compressor Blade Insp - Area 1,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1287,Air Monitoring - Area 3,5,,Execution,Safety
+Planned - Major Overhaul,MA-1288,Safety Audit - Area 4,5,,Execution,Safety
+Planned - Major Overhaul,MA-1289,Circ Pump Rebuild - Area 3,5,,Execution,BOP
+Planned - Major Overhaul,MA-1290,Compressor Blade Insp - Area 2,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1291,Cooling Tower Fill - Area 4,5,,Execution,BOP
+Planned - Major Overhaul,MA-1292,Stack Damper - Area 2,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1293,Wedge Check - Area 3,5,,Execution,Generator
+Planned - Major Overhaul,MA-1294,Air Monitoring - Area 2,5,,Execution,Safety
+Planned - Major Overhaul,MA-1295,Robotic Insp - Area 3,5,,Execution,Generator
+Planned - Major Overhaul,MA-1296,Wedge Check - Area 2,5,,Execution,Generator
+Planned - Major Overhaul,MA-1297,Air Monitoring - Area 1,5,,Execution,Safety
+Planned - Major Overhaul,MA-1298,Stack Damper - Area 4,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1299,Transformer Oil - Area 4,5,,Execution,BOP
+Planned - Major Overhaul,MA-1300,Drum Insp - Area 4,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1301,Robotic Insp - Area 1,5,,Execution,Generator
+Planned - Major Overhaul,MA-1302,Diaphragm Clean - Area 1,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1303,Condenser Clean - Area 3,5,,Execution,BOP
+Planned - Major Overhaul,MA-1304,Catalyst Sample - Area 4,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1305,Stop Valve Insp - Area 2,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1306,LP Hood Open - Area 4,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1307,Rotor Insp - Area 3,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1308,Catalyst Sample - Area 1,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1309,Stack Damper - Area 3,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1310,Confined Space Setup - Area 2,5,,Execution,Safety
+Planned - Major Overhaul,MA-1311,Circ Pump Rebuild - Area 1,5,,Execution,BOP
+Planned - Major Overhaul,MA-1312,HP Shell Removal - Area 3,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1313,Control Valve Lapping - Area 3,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1314,Circ Pump Rebuild - Area 4,5,,Execution,BOP
+Planned - Major Overhaul,MA-1315,Robotic Insp - Area 1,5,,Execution,Generator
+Planned - Major Overhaul,MA-1316,Rotor Insp - Area 2,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1317,Robotic Insp - Area 3,5,,Execution,Generator
+Planned - Major Overhaul,MA-1318,LOTO Walkdown - Area 2,5,,Execution,Safety
+Planned - Major Overhaul,MA-1319,Stop Valve Insp - Area 3,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1320,Rotor Insp - Area 2,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1321,Tube Thickness Check - Area 2,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1322,Diaphragm Clean - Area 1,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1323,Safety Audit - Area 3,5,,Execution,Safety
+Planned - Major Overhaul,MA-1324,Inlet Filter - Area 2,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1325,LP Hood Open - Area 2,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1326,Exciter Diode Check - Area 2,5,,Execution,Generator
+Planned - Major Overhaul,MA-1327,Control Valve Lapping - Area 3,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1328,Catalyst Sample - Area 1,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1329,Exciter Diode Check - Area 1,5,,Execution,Generator
+Planned - Major Overhaul,MA-1330,HP Shell Removal - Area 2,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1331,Transformer Oil - Area 2,5,,Execution,BOP
+Planned - Major Overhaul,MA-1332,Diaphragm Clean - Area 2,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1333,Stop Valve Insp - Area 2,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1334,Circ Pump Rebuild - Area 4,5,,Execution,BOP
+Planned - Major Overhaul,MA-1335,Confined Space Setup - Area 4,5,,Execution,Safety
+Planned - Major Overhaul,MA-1336,Air Monitoring - Area 3,5,,Execution,Safety
+Planned - Major Overhaul,MA-1337,Tube Thickness Check - Area 2,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1338,Control Valve Lapping - Area 3,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1339,Exciter Diode Check - Area 4,5,,Execution,Generator
+Planned - Major Overhaul,MA-1340,Stack Damper - Area 3,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1341,Combustion Swap - Area 3,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1342,Stop Valve Insp - Area 1,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1343,Inlet Filter - Area 3,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1344,Air Monitoring - Area 3,5,,Execution,Safety
+Planned - Major Overhaul,MA-1345,Diaphragm Clean - Area 2,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1346,Diaphragm Clean - Area 1,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1347,Drum Insp - Area 4,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1348,Condenser Clean - Area 1,5,,Execution,BOP
+Planned - Major Overhaul,MA-1349,Tube Thickness Check - Area 4,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1350,Safety Audit - Area 1,5,,Execution,Safety
+Planned - Major Overhaul,MA-1351,Safety Audit - Area 1,5,,Execution,Safety
+Planned - Major Overhaul,MA-1352,Stop Valve Insp - Area 2,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1353,LP Hood Open - Area 4,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1354,Cooling Tower Fill - Area 4,5,,Execution,BOP
+Planned - Major Overhaul,MA-1355,Wedge Check - Area 1,5,,Execution,Generator
+Planned - Major Overhaul,MA-1356,Compressor Blade Insp - Area 4,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1357,Stack Damper - Area 4,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1358,Circ Pump Rebuild - Area 1,5,,Execution,BOP
+Planned - Major Overhaul,MA-1359,Confined Space Setup - Area 1,5,,Execution,Safety
+Planned - Major Overhaul,MA-1360,LP Hood Open - Area 2,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1361,HP Shell Removal - Area 1,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1362,Compressor Blade Insp - Area 3,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1363,Inlet Filter - Area 1,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1364,IGV Bushing - Area 2,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1365,Tube Thickness Check - Area 4,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1366,Confined Space Setup - Area 3,5,,Execution,Safety
+Planned - Major Overhaul,MA-1367,Air Monitoring - Area 1,5,,Execution,Safety
+Planned - Major Overhaul,MA-1368,Turbine Shell Lift - Area 2,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1369,Switchgear Test - Area 2,5,,Execution,BOP
+Planned - Major Overhaul,MA-1370,Safety Audit - Area 4,5,,Execution,Safety
+Planned - Major Overhaul,MA-1371,Drum Insp - Area 1,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1372,Compressor Blade Insp - Area 2,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1373,Safety Audit - Area 1,5,,Execution,Safety
+Planned - Major Overhaul,MA-1374,Transformer Oil - Area 1,5,,Execution,BOP
+Planned - Major Overhaul,MA-1375,LP Hood Open - Area 3,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1376,Robotic Insp - Area 3,5,,Execution,Generator
+Planned - Major Overhaul,MA-1377,Robotic Insp - Area 3,5,,Execution,Generator
+Planned - Major Overhaul,MA-1378,Exciter Diode Check - Area 3,5,,Execution,Generator
+Planned - Major Overhaul,MA-1379,Safety Audit - Area 3,5,,Execution,Safety
+Planned - Major Overhaul,MA-1380,Combustion Swap - Area 4,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1381,Tube Thickness Check - Area 3,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1382,Wedge Check - Area 1,5,,Execution,Generator
+Planned - Major Overhaul,MA-1383,Tube Thickness Check - Area 2,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1384,Air Monitoring - Area 4,5,,Execution,Safety
+Planned - Major Overhaul,MA-1385,Tube Thickness Check - Area 4,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1386,Compressor Blade Insp - Area 2,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1387,Cooling Tower Fill - Area 3,5,,Execution,BOP
+Planned - Major Overhaul,MA-1388,Transformer Oil - Area 3,5,,Execution,BOP
+Planned - Major Overhaul,MA-1389,HP Shell Removal - Area 1,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1390,HP Shell Removal - Area 2,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1391,Safety Audit - Area 4,5,,Execution,Safety
+Planned - Major Overhaul,MA-1392,Drum Insp - Area 2,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1393,LP Hood Open - Area 4,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1394,Catalyst Sample - Area 1,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1395,Exciter Diode Check - Area 4,5,,Execution,Generator
+Planned - Major Overhaul,MA-1396,Catalyst Sample - Area 1,5,,Execution,HRSG
+Planned - Major Overhaul,MA-1397,Cooling Tower Fill - Area 1,5,,Execution,BOP
+Planned - Major Overhaul,MA-1398,IGV Bushing - Area 3,5,,Execution,Gas Turbine
+Planned - Major Overhaul,MA-1399,LOTO Walkdown - Area 2,5,,Execution,Safety
+Planned - Major Overhaul,MA-1400,HP Shell Removal - Area 4,5,,Execution,Steam Turbine
+Planned - Major Overhaul,MA-1401,Circ Pump Rebuild - Area 4,5,,Execution,BOP
+Planned - Major Overhaul,MA-1402,T+1: Cooling Tower Fill Planning,30,,T+1,BOP
+Planned - Major Overhaul,MA-1403,T+1: LOTO Walkdown Planning,30,,T+1,Safety
+Planned - Major Overhaul,MA-1404,T+1: Catalyst Sample Planning,30,,T+1,HRSG
+Planned - Major Overhaul,MA-1405,T+1: Robotic Insp Planning,30,,T+1,Generator
+Planned - Major Overhaul,MA-1406,T+1: Cooling Tower Fill Planning,30,,T+1,BOP
+Planned - Major Overhaul,MA-1407,T+1: HP Shell Removal Planning,30,,T+1,Steam Turbine
+Planned - Major Overhaul,MA-1408,T+1: IGV Bushing Planning,30,,T+1,Gas Turbine
+Planned - Major Overhaul,MA-1409,T+1: Condenser Clean Planning,30,,T+1,BOP
+Planned - Major Overhaul,MA-1410,T+1: Switchgear Test Planning,30,,T+1,BOP
+Planned - Major Overhaul,MA-1411,T+1: Diaphragm Clean Planning,30,,T+1,Steam Turbine
+Planned - Major Overhaul,MA-1412,T+1: Robotic Insp Planning,30,,T+1,Generator
+Planned - Major Overhaul,MA-1413,T+1: Condenser Clean Planning,30,,T+1,BOP
+Planned - Major Overhaul,MA-1414,T+1: Robotic Insp Planning,30,,T+1,Generator
+Planned - Major Overhaul,MA-1415,T+1: Drum Insp Planning,30,,T+1,HRSG
+Planned - Major Overhaul,MA-1416,T+1: Robotic Insp Planning,30,,T+1,Generator
+Planned - Major Overhaul,MA-1417,T+1: IGV Bushing Planning,30,,T+1,Gas Turbine
+Planned - Major Overhaul,MA-1418,T+1: Circ Pump Rebuild Planning,30,,T+1,BOP
+Planned - Major Overhaul,MA-1419,T+1: Safety Audit Planning,30,,T+1,Safety
+Planned - Major Overhaul,MA-1420,T+1: IGV Bushing Planning,30,,T+1,Gas Turbine
+Planned - Major Overhaul,MA-1421,T+1: Stack Damper Planning,30,,T+1,HRSG
+Planned - Major Overhaul,MA-1422,T+1: Rotor Insp Planning,30,,T+1,Gas Turbine
+Planned - Major Overhaul,MA-1423,T+1: Robotic Insp Planning,30,,T+1,Generator
+Planned - Major Overhaul,MA-1424,T+1: Bucket Exchange Planning,30,,T+1,Gas Turbine
+Planned - Hot Gas Path,HO-1000,T-24: Regulatory Permit Planning,30,,T-24,Project Management
+Planned - Hot Gas Path,HO-1001,T-24: Invoice Rec Planning,30,,T-24,Project Management
+Planned - Hot Gas Path,HO-1002,T-24: Regulatory Permit Planning,30,,T-24,Project Management
+Planned - Hot Gas Path,HO-1003,T-24: Invoice Rec Planning,30,,T-24,Project Management
+Planned - Hot Gas Path,HO-1004,T-24: Budget Approval Planning,30,,T-24,Project Management
+Planned - Hot Gas Path,HO-1005,T-24: Budget Approval Planning,30,,T-24,Project Management
+Planned - Hot Gas Path,HO-1006,T-24: Invoice Rec Planning,30,,T-24,Project Management
+Planned - Hot Gas Path,HO-1007,T-24: Budget Approval Planning,30,,T-24,Project Management
+Planned - Hot Gas Path,HO-1008,T-18: Budget Approval Planning,30,,T-18,Project Management
+Planned - Hot Gas Path,HO-1009,T-18: Regulatory Permit Planning,30,,T-18,Project Management
+Planned - Hot Gas Path,HO-1010,T-18: Regulatory Permit Planning,30,,T-18,Project Management
+Planned - Hot Gas Path,HO-1011,T-18: Invoice Rec Planning,30,,T-18,Project Management
+Planned - Hot Gas Path,HO-1012,T-18: Grid Bid Planning,30,,T-18,Project Management
+Planned - Hot Gas Path,HO-1013,T-18: Budget Approval Planning,30,,T-18,Project Management
+Planned - Hot Gas Path,HO-1014,T-18: Budget Approval Planning,30,,T-18,Project Management
+Planned - Hot Gas Path,HO-1015,T-18: Invoice Rec Planning,30,,T-18,Project Management
+Planned - Hot Gas Path,HO-1016,T-12: Regulatory Permit Planning,30,,T-12,Project Management
+Planned - Hot Gas Path,HO-1017,T-12: Invoice Rec Planning,30,,T-12,Project Management
+Planned - Hot Gas Path,HO-1018,T-12: Invoice Rec Planning,30,,T-12,Project Management
+Planned - Hot Gas Path,HO-1019,T-12: Regulatory Permit Planning,30,,T-12,Project Management
+Planned - Hot Gas Path,HO-1020,T-12: Scope Definition Planning,30,,T-12,Project Management
+Planned - Hot Gas Path,HO-1021,T-12: Budget Approval Planning,30,,T-12,Project Management
+Planned - Hot Gas Path,HO-1022,T-12: Grid Bid Planning,30,,T-12,Project Management
+Planned - Hot Gas Path,HO-1023,T-12: Budget Approval Planning,30,,T-12,Project Management
+Planned - Hot Gas Path,HO-1024,T-12: Budget Approval Planning,30,,T-12,Project Management
+Planned - Hot Gas Path,HO-1025,T-12: Scope Definition Planning,30,,T-12,Project Management
+Planned - Hot Gas Path,HO-1026,T-12: Invoice Rec Planning,30,,T-12,Project Management
+Planned - Hot Gas Path,HO-1027,T-12: Invoice Rec Planning,30,,T-12,Project Management
+Planned - Hot Gas Path,HO-1028,T-12: Scope Definition Planning,30,,T-12,Project Management
+Planned - Hot Gas Path,HO-1029,T-12: Scope Definition Planning,30,,T-12,Project Management
+Planned - Hot Gas Path,HO-1030,T-12: Budget Approval Planning,30,,T-12,Project Management
+Planned - Hot Gas Path,HO-1031,T-12: Scope Definition Planning,30,,T-12,Project Management
+Planned - Hot Gas Path,HO-1032,T-12: Budget Approval Planning,30,,T-12,Project Management
+Planned - Hot Gas Path,HO-1033,T-6: Scope Definition Planning,30,,T-6,Project Management
+Planned - Hot Gas Path,HO-1034,T-6: Budget Approval Planning,30,,T-6,Project Management
+Planned - Hot Gas Path,HO-1035,T-6: Budget Approval Planning,30,,T-6,Project Management
+Planned - Hot Gas Path,HO-1036,T-6: Regulatory Permit Planning,30,,T-6,Project Management
+Planned - Hot Gas Path,HO-1037,T-6: Grid Bid Planning,30,,T-6,Project Management
+Planned - Hot Gas Path,HO-1038,T-6: Budget Approval Planning,30,,T-6,Project Management
+Planned - Hot Gas Path,HO-1039,T-6: Invoice Rec Planning,30,,T-6,Project Management
+Planned - Hot Gas Path,HO-1040,T-6: Budget Approval Planning,30,,T-6,Project Management
+Planned - Hot Gas Path,HO-1041,T-3: Scope Definition Planning,30,,T-3,Project Management
+Planned - Hot Gas Path,HO-1042,T-3: Regulatory Permit Planning,30,,T-3,Project Management
+Planned - Hot Gas Path,HO-1043,T-3: Grid Bid Planning,30,,T-3,Project Management
+Planned - Hot Gas Path,HO-1044,T-3: Budget Approval Planning,30,,T-3,Project Management
+Planned - Hot Gas Path,HO-1045,T-3: Invoice Rec Planning,30,,T-3,Project Management
+Planned - Hot Gas Path,HO-1046,T-3: Budget Approval Planning,30,,T-3,Project Management
+Planned - Hot Gas Path,HO-1047,T-3: Scope Definition Planning,30,,T-3,Project Management
+Planned - Hot Gas Path,HO-1048,T-3: Regulatory Permit Planning,30,,T-3,Project Management
+Planned - Hot Gas Path,HO-1049,T-1: Circ Pump Rebuild Planning,30,,T-1,BOP
+Planned - Hot Gas Path,HO-1050,T-1: Bucket Exchange Planning,30,,T-1,Gas Turbine
+Planned - Hot Gas Path,HO-1051,T-1: Transformer Oil Planning,30,,T-1,BOP
+Planned - Hot Gas Path,HO-1052,T-1: Safety Audit Planning,30,,T-1,Safety
+Planned - Hot Gas Path,HO-1053,T-1: Air Monitoring Planning,30,,T-1,Safety
+Planned - Hot Gas Path,HO-1054,T-1: Confined Space Setup Planning,30,,T-1,Safety
+Planned - Hot Gas Path,HO-1055,T-1: Switchgear Test Planning,30,,T-1,BOP
+Planned - Hot Gas Path,HO-1056,T-1: Switchgear Test Planning,30,,T-1,BOP
+Planned - Hot Gas Path,HO-1057,Compressor Blade Insp - Area 1,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1058,Air Monitoring - Area 3,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1059,IGV Bushing - Area 1,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1060,Transformer Oil - Area 1,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1061,Air Monitoring - Area 2,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1062,Rotor Insp - Area 4,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1063,Circ Pump Rebuild - Area 4,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1064,Cooling Tower Fill - Area 4,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1065,Cooling Tower Fill - Area 2,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1066,IGV Bushing - Area 2,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1067,Turbine Shell Lift - Area 4,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1068,Combustion Swap - Area 1,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1069,Cooling Tower Fill - Area 3,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1070,Inlet Filter - Area 2,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1071,Circ Pump Rebuild - Area 2,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1072,Bucket Exchange - Area 4,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1073,Combustion Swap - Area 4,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1074,Condenser Clean - Area 2,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1075,Inlet Filter - Area 4,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1076,Air Monitoring - Area 1,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1077,IGV Bushing - Area 3,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1078,Safety Audit - Area 4,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1079,Safety Audit - Area 4,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1080,Circ Pump Rebuild - Area 2,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1081,LOTO Walkdown - Area 4,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1082,Safety Audit - Area 2,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1083,Switchgear Test - Area 4,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1084,Air Monitoring - Area 1,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1085,Air Monitoring - Area 2,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1086,Safety Audit - Area 1,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1087,Inlet Filter - Area 4,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1088,Turbine Shell Lift - Area 4,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1089,Safety Audit - Area 3,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1090,Switchgear Test - Area 3,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1091,Rotor Insp - Area 1,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1092,Combustion Swap - Area 4,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1093,Cooling Tower Fill - Area 4,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1094,Bucket Exchange - Area 1,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1095,Air Monitoring - Area 1,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1096,Turbine Shell Lift - Area 2,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1097,Inlet Filter - Area 1,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1098,Inlet Filter - Area 1,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1099,Air Monitoring - Area 1,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1100,Bucket Exchange - Area 3,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1101,Condenser Clean - Area 4,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1102,Combustion Swap - Area 2,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1103,Condenser Clean - Area 2,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1104,Confined Space Setup - Area 1,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1105,LOTO Walkdown - Area 3,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1106,Safety Audit - Area 2,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1107,Rotor Insp - Area 3,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1108,Transformer Oil - Area 1,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1109,Cooling Tower Fill - Area 3,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1110,Confined Space Setup - Area 3,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1111,Rotor Insp - Area 3,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1112,Safety Audit - Area 1,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1113,Compressor Blade Insp - Area 1,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1114,LOTO Walkdown - Area 4,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1115,Transformer Oil - Area 4,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1116,Transformer Oil - Area 1,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1117,Air Monitoring - Area 1,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1118,Safety Audit - Area 4,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1119,Bucket Exchange - Area 1,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1120,Inlet Filter - Area 1,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1121,Rotor Insp - Area 1,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1122,Condenser Clean - Area 3,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1123,Confined Space Setup - Area 2,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1124,Combustion Swap - Area 3,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1125,Combustion Swap - Area 4,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1126,Condenser Clean - Area 4,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1127,Switchgear Test - Area 1,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1128,Condenser Clean - Area 3,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1129,Bucket Exchange - Area 3,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1130,Cooling Tower Fill - Area 2,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1131,Combustion Swap - Area 1,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1132,IGV Bushing - Area 2,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1133,Circ Pump Rebuild - Area 3,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1134,Rotor Insp - Area 2,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1135,Confined Space Setup - Area 2,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1136,Air Monitoring - Area 4,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1137,Safety Audit - Area 1,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1138,Air Monitoring - Area 3,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1139,Bucket Exchange - Area 2,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1140,Inlet Filter - Area 1,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1141,Safety Audit - Area 4,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1142,Inlet Filter - Area 1,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1143,Safety Audit - Area 3,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1144,Condenser Clean - Area 3,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1145,Air Monitoring - Area 4,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1146,Condenser Clean - Area 2,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1147,Cooling Tower Fill - Area 3,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1148,Turbine Shell Lift - Area 2,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1149,Combustion Swap - Area 3,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1150,Combustion Swap - Area 4,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1151,Safety Audit - Area 4,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1152,Switchgear Test - Area 1,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1153,Transformer Oil - Area 2,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1154,Condenser Clean - Area 2,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1155,Transformer Oil - Area 3,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1156,Condenser Clean - Area 1,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1157,Confined Space Setup - Area 4,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1158,Bucket Exchange - Area 4,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1159,Inlet Filter - Area 2,5,,Execution,Gas Turbine
+Planned - Hot Gas Path,HO-1160,Switchgear Test - Area 4,5,,Execution,BOP
+Planned - Hot Gas Path,HO-1161,Confined Space Setup - Area 1,5,,Execution,Safety
+Planned - Hot Gas Path,HO-1162,T+1: Rotor Insp Planning,30,,T+1,Gas Turbine
+Planned - Hot Gas Path,HO-1163,T+1: Compressor Blade Insp Planning,30,,T+1,Gas Turbine
+Planned - Hot Gas Path,HO-1164,T+1: Air Monitoring Planning,30,,T+1,Safety
+Planned - Hot Gas Path,HO-1165,T+1: Rotor Insp Planning,30,,T+1,Gas Turbine
+Planned - Hot Gas Path,HO-1166,T+1: Rotor Insp Planning,30,,T+1,Gas Turbine
+Planned - Hot Gas Path,HO-1167,T+1: Transformer Oil Planning,30,,T+1,BOP
+Planned - Hot Gas Path,HO-1168,T+1: LOTO Walkdown Planning,30,,T+1,Safety
+Planned - Hot Gas Path,HO-1169,T+1: Inlet Filter Planning,30,,T+1,Gas Turbine
+Planned - Hot Gas Path,HO-1170,T+1: Compressor Blade Insp Planning,30,,T+1,Gas Turbine
+Planned - Hot Gas Path,HO-1171,T+1: Turbine Shell Lift Planning,30,,T+1,Gas Turbine
+Planned - Hot Gas Path,HO-1172,T+1: Air Monitoring Planning,30,,T+1,Safety
+Planned - Hot Gas Path,HO-1173,T+1: Confined Space Setup Planning,30,,T+1,Safety
+Planned - Hot Gas Path,HO-1174,T+1: IGV Bushing Planning,30,,T+1,Gas Turbine
+Planned - Combustion Inspection,CO-1000,T-12: Scope Definition Planning,30,,T-12,Project Management
+Planned - Combustion Inspection,CO-1001,T-12: Budget Approval Planning,30,,T-12,Project Management
+Planned - Combustion Inspection,CO-1002,T-12: Scope Definition Planning,30,,T-12,Project Management
+Planned - Combustion Inspection,CO-1003,T-12: Grid Bid Planning,30,,T-12,Project Management
+Planned - Combustion Inspection,CO-1004,T-12: Budget Approval Planning,30,,T-12,Project Management
+Planned - Combustion Inspection,CO-1005,T-12: Budget Approval Planning,30,,T-12,Project Management
+Planned - Combustion Inspection,CO-1006,T-12: Grid Bid Planning,30,,T-12,Project Management
+Planned - Combustion Inspection,CO-1007,T-12: Budget Approval Planning,30,,T-12,Project Management
+Planned - Combustion Inspection,CO-1008,T-12: Invoice Rec Planning,30,,T-12,Project Management
+Planned - Combustion Inspection,CO-1009,T-12: Invoice Rec Planning,30,,T-12,Project Management
+Planned - Combustion Inspection,CO-1010,T-12: Grid Bid Planning,30,,T-12,Project Management
+Planned - Combustion Inspection,CO-1011,T-12: Regulatory Permit Planning,30,,T-12,Project Management
+Planned - Combustion Inspection,CO-1012,T-6: Regulatory Permit Planning,30,,T-6,Project Management
+Planned - Combustion Inspection,CO-1013,T-6: Invoice Rec Planning,30,,T-6,Project Management
+Planned - Combustion Inspection,CO-1014,T-6: Grid Bid Planning,30,,T-6,Project Management
+Planned - Combustion Inspection,CO-1015,T-6: Budget Approval Planning,30,,T-6,Project Management
+Planned - Combustion Inspection,CO-1016,T-6: Regulatory Permit Planning,30,,T-6,Project Management
+Planned - Combustion Inspection,CO-1017,T-6: Scope Definition Planning,30,,T-6,Project Management
+Planned - Combustion Inspection,CO-1018,T-6: Grid Bid Planning,30,,T-6,Project Management
+Planned - Combustion Inspection,CO-1019,T-6: Regulatory Permit Planning,30,,T-6,Project Management
+Planned - Combustion Inspection,CO-1020,T-3: Scope Definition Planning,30,,T-3,Project Management
+Planned - Combustion Inspection,CO-1021,T-3: Invoice Rec Planning,30,,T-3,Project Management
+Planned - Combustion Inspection,CO-1022,T-3: Regulatory Permit Planning,30,,T-3,Project Management
+Planned - Combustion Inspection,CO-1023,T-3: Invoice Rec Planning,30,,T-3,Project Management
+Planned - Combustion Inspection,CO-1024,T-1: Air Monitoring Planning,30,,T-1,Safety
+Planned - Combustion Inspection,CO-1025,T-1: Rotor Insp Planning,30,,T-1,Gas Turbine
+Planned - Combustion Inspection,CO-1026,T-1: Air Monitoring Planning,30,,T-1,Safety
+Planned - Combustion Inspection,CO-1027,T-1: Rotor Insp Planning,30,,T-1,Gas Turbine
+Planned - Combustion Inspection,CO-1028,Rotor Insp - Area 1,5,,Execution,Gas Turbine
+Planned - Combustion Inspection,CO-1029,Combustion Swap - Area 1,5,,Execution,Gas Turbine
+Planned - Combustion Inspection,CO-1030,Air Monitoring - Area 3,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1031,LOTO Walkdown - Area 3,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1032,Air Monitoring - Area 2,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1033,Air Monitoring - Area 1,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1034,Rotor Insp - Area 3,5,,Execution,Gas Turbine
+Planned - Combustion Inspection,CO-1035,LOTO Walkdown - Area 1,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1036,Inlet Filter - Area 1,5,,Execution,Gas Turbine
+Planned - Combustion Inspection,CO-1037,LOTO Walkdown - Area 3,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1038,IGV Bushing - Area 2,5,,Execution,Gas Turbine
+Planned - Combustion Inspection,CO-1039,Bucket Exchange - Area 4,5,,Execution,Gas Turbine
+Planned - Combustion Inspection,CO-1040,Air Monitoring - Area 2,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1041,Air Monitoring - Area 2,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1042,Confined Space Setup - Area 1,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1043,IGV Bushing - Area 2,5,,Execution,Gas Turbine
+Planned - Combustion Inspection,CO-1044,Air Monitoring - Area 3,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1045,Confined Space Setup - Area 2,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1046,Confined Space Setup - Area 2,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1047,Air Monitoring - Area 1,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1048,Confined Space Setup - Area 4,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1049,IGV Bushing - Area 4,5,,Execution,Gas Turbine
+Planned - Combustion Inspection,CO-1050,Compressor Blade Insp - Area 2,5,,Execution,Gas Turbine
+Planned - Combustion Inspection,CO-1051,Rotor Insp - Area 3,5,,Execution,Gas Turbine
+Planned - Combustion Inspection,CO-1052,Safety Audit - Area 2,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1053,Air Monitoring - Area 1,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1054,Confined Space Setup - Area 4,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1055,Combustion Swap - Area 1,5,,Execution,Gas Turbine
+Planned - Combustion Inspection,CO-1056,Compressor Blade Insp - Area 1,5,,Execution,Gas Turbine
+Planned - Combustion Inspection,CO-1057,Bucket Exchange - Area 4,5,,Execution,Gas Turbine
+Planned - Combustion Inspection,CO-1058,Inlet Filter - Area 4,5,,Execution,Gas Turbine
+Planned - Combustion Inspection,CO-1059,LOTO Walkdown - Area 1,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1060,IGV Bushing - Area 2,5,,Execution,Gas Turbine
+Planned - Combustion Inspection,CO-1061,IGV Bushing - Area 4,5,,Execution,Gas Turbine
+Planned - Combustion Inspection,CO-1062,Compressor Blade Insp - Area 3,5,,Execution,Gas Turbine
+Planned - Combustion Inspection,CO-1063,Air Monitoring - Area 3,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1064,Combustion Swap - Area 3,5,,Execution,Gas Turbine
+Planned - Combustion Inspection,CO-1065,LOTO Walkdown - Area 1,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1066,LOTO Walkdown - Area 3,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1067,IGV Bushing - Area 2,5,,Execution,Gas Turbine
+Planned - Combustion Inspection,CO-1068,Turbine Shell Lift - Area 3,5,,Execution,Gas Turbine
+Planned - Combustion Inspection,CO-1069,Inlet Filter - Area 4,5,,Execution,Gas Turbine
+Planned - Combustion Inspection,CO-1070,IGV Bushing - Area 4,5,,Execution,Gas Turbine
+Planned - Combustion Inspection,CO-1071,Combustion Swap - Area 3,5,,Execution,Gas Turbine
+Planned - Combustion Inspection,CO-1072,LOTO Walkdown - Area 3,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1073,LOTO Walkdown - Area 1,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1074,Safety Audit - Area 3,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1075,Air Monitoring - Area 1,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1076,Rotor Insp - Area 2,5,,Execution,Gas Turbine
+Planned - Combustion Inspection,CO-1077,Rotor Insp - Area 2,5,,Execution,Gas Turbine
+Planned - Combustion Inspection,CO-1078,Air Monitoring - Area 1,5,,Execution,Safety
+Planned - Combustion Inspection,CO-1079,T+1: Inlet Filter Planning,30,,T+1,Gas Turbine
+Planned - Combustion Inspection,CO-1080,T+1: LOTO Walkdown Planning,30,,T+1,Safety
+Planned - Combustion Inspection,CO-1081,T+1: Combustion Swap Planning,30,,T+1,Gas Turbine
+Planned - Combustion Inspection,CO-1082,T+1: Rotor Insp Planning,30,,T+1,Gas Turbine
+Planned - Combustion Inspection,CO-1083,T+1: Turbine Shell Lift Planning,30,,T+1,Gas Turbine
+Planned - Combustion Inspection,CO-1084,T+1: Confined Space Setup Planning,30,,T+1,Safety
+Forced - Exciter Diode Failure,EX-1000,Confined Space Setup - Area 2,5,,Execution,Safety
+Forced - Exciter Diode Failure,EX-1001,Switchgear Test - Area 2,5,,Execution,BOP
+Forced - Exciter Diode Failure,EX-1002,Wedge Check - Area 1,5,,Execution,Generator
+Forced - Exciter Diode Failure,EX-1003,Air Monitoring - Area 1,5,,Execution,Safety
+Forced - Exciter Diode Failure,EX-1004,Robotic Insp - Area 3,5,,Execution,Generator
+Forced - Exciter Diode Failure,EX-1005,Cooling Tower Fill - Area 3,5,,Execution,BOP
+Forced - Exciter Diode Failure,EX-1006,Condenser Clean - Area 2,5,,Execution,BOP
+Forced - Exciter Diode Failure,EX-1007,Cooling Tower Fill - Area 3,5,,Execution,BOP
+Forced - Exciter Diode Failure,EX-1008,Wedge Check - Area 4,5,,Execution,Generator
+Forced - Exciter Diode Failure,EX-1009,LOTO Walkdown - Area 2,5,,Execution,Safety
+Forced - Exciter Diode Failure,EX-1010,Cooling Tower Fill - Area 1,5,,Execution,BOP
+Forced - Exciter Diode Failure,EX-1011,Air Monitoring - Area 2,5,,Execution,Safety
+Forced - Exciter Diode Failure,EX-1012,Wedge Check - Area 1,5,,Execution,Generator
+Forced - Exciter Diode Failure,EX-1013,Safety Audit - Area 2,5,,Execution,Safety
+Forced - Exciter Diode Failure,EX-1014,Circ Pump Rebuild - Area 3,5,,Execution,BOP
+Forced - Exciter Diode Failure,EX-1015,Air Monitoring - Area 1,5,,Execution,Safety
+Forced - Exciter Diode Failure,EX-1016,Air Monitoring - Area 4,5,,Execution,Safety
+Forced - Exciter Diode Failure,EX-1017,LOTO Walkdown - Area 2,5,,Execution,Safety
+Forced - Exciter Diode Failure,EX-1018,Confined Space Setup - Area 3,5,,Execution,Safety
+Forced - Exciter Diode Failure,EX-1019,Exciter Diode Check - Area 4,5,,Execution,Generator
+Forced - Exciter Diode Failure,EX-1020,LOTO Walkdown - Area 3,5,,Execution,Safety
+Forced - Exciter Diode Failure,EX-1021,Exciter Diode Check - Area 3,5,,Execution,Generator
+Forced - Exciter Diode Failure,EX-1022,Robotic Insp - Area 3,5,,Execution,Generator
+Forced - Exciter Diode Failure,EX-1023,Robotic Insp - Area 4,5,,Execution,Generator
+Forced - Exciter Diode Failure,EX-1024,Transformer Oil - Area 2,5,,Execution,BOP
+Forced - Exciter Diode Failure,EX-1025,Condenser Clean - Area 1,5,,Execution,BOP
+Forced - Exciter Diode Failure,EX-1026,Cooling Tower Fill - Area 1,5,,Execution,BOP
+Forced - Exciter Diode Failure,EX-1027,T+1: Exciter Diode Check Planning,30,,T+1,Generator
+Forced - Exciter Diode Failure,EX-1028,T+1: Safety Audit Planning,30,,T+1,Safety
+Forced - Exciter Diode Failure,EX-1029,T+1: Wedge Check Planning,30,,T+1,Generator

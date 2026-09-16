@@ -1,0 +1,24 @@
+PageID,Module,Page,CFO,Plant Manager,Outage Manager,Planner,Scheduler,Execution Lead,Timekeeper,EHS,CBM Engineer,Chief Engineer,System Admin
+fleet_dashboard,Fleet & CXO,Fleet Dashboard,R,R,R,R,R,R,R,R,R,R,RW
+site_overview,Fleet & CXO,Site Overview,R,RW,RW,R,R,R,R,R,R,R,RW
+outage_calendar,Planning & Scheduling,Outage Calendar,R,R,RW,RW,RW,R,R,R,R,R,RW
+master_schedule,Planning & Scheduling,Master Schedule (P6),R,R,RW,R,RW,R,R,R,R,R,RW
+p6_creation,Planning & Scheduling,Templates & Uploads,R,R,RW,RW,RW,R,R,R,R,R,RW
+risks,Planning & Scheduling,Risk Register,R,R,RW,RW,RW,R,R,R,R,R,RW
+ehs_dashboard,EHS,EHS Dashboard,R,R,R,R,R,R,R,RW,R,R,RW
+safety_tils,EHS,Safety TILs & Bulletins,R,R,R,R,R,R,R,RW,R,R,RW
+icr_asr,EHS,Incident and ASR Reports,R,R,R,R,R,R,R,RW,R,R,RW
+timesheets,Execution & Labor,Timesheets & Labor,R,R,R,R,R,RW,RW,R,R,R,RW
+work_orders,Execution & Labor,Work Order Management,R,R,R,R,R,RW,RW,R,R,R,RW
+sops,Execution & Labor,SOPs,R,R,R,R,R,RW,RW,R,R,R,RW
+budget,Financials,Budget Tracking & Overage,RW,R,R,R,X,X,RW,X,X,R,RW
+approvals,Financials,Approvals Center,RW,R,R,R,R,X,RW,X,X,R,RW
+inspections,Quality & Compliance,Inspection Plans,RW,R,R,R,R,X,RW,X,X,R,RW
+ncr,Quality & Compliance,Non Confirmance Reports,RW,R,R,R,R,X,RW,X,X,R,RW
+checklists,Quality & Compliance,Check Lists,RW,R,R,R,R,X,RW,X,X,R,RW
+inventory,Supply Chain,Inventory,RW,R,R,R,R,X,RW,X,X,R,RW
+safety_stock,Supply Chain,Safety Stock,RW,R,R,R,R,X,RW,X,X,R,RW
+pipo,Supply Chain,Parts In Parts Out,RW,R,R,R,R,X,RW,X,X,R,RW
+cbm_dashboard,CBM,CBM Dashboard,R,R,RW,R,R,R,R,R,RW,RW,RW
+admin_rbac,Admin & Settings,Users & Roles (RBAC),X,R,R,X,X,X,X,X,X,X,RW
+admin_settings,Admin & Settings,Integrations & Settings,R,R,R,R,R,X,X,X,X,R,RW

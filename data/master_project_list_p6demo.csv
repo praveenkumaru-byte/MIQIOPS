@@ -1,0 +1,46 @@
+OutageUID,Site Name,Project ID,Description,Asset,Sub-System,Status,Tollgate,Start Date,End Date,Budget,Actual Cost,Contractor,Project Manager,TollgateLateFlag
+RG_CI_2025,Rural Gen BaseLoad,RG-SFT-201,LOTO & Lock Box Verification,Safety,,Completed,Completed,08-03-2025,30-03-2025,1150000.0,0.0,TBD,Robert O'Malley,False
+RG_CI_2025,Rural Gen BaseLoad,RG-GT-201,Combustion Can Removal,Gas Turbine,,Completed,Completed,08-03-2025,30-03-2025,1150000.0,0.0,TBD,Robert O'Malley,False
+RG_CI_2025,Rural Gen BaseLoad,RG-GT-202,Fuel Nozzle Swap,Gas Turbine,,Completed,Completed,08-03-2025,30-03-2025,1150000.0,0.0,TBD,Robert O'Malley,False
+RG_CI_2025,Rural Gen BaseLoad,RG-GT-203,Borescope Inspection (Compressor),Gas Turbine,,Completed,Completed,08-03-2025,30-03-2025,1150000.0,0.0,TBD,Robert O'Malley,False
+RG_CI_2025,Rural Gen BaseLoad,RG-BOP-201,Instrument Air Compressor Service,BOP,,Completed,Completed,08-03-2025,30-03-2025,1150000.0,0.0,TBD,Robert O'Malley,False
+RG_CI_2025,Rural Gen BaseLoad,RG-BOP-202,Auxiliary Cooling Water Filter Change,BOP,,Completed,Completed,08-03-2025,30-03-2025,1150000.0,0.0,TBD,Robert O'Malley,False
+SG_FRC_2026,South Gen Unit 1,SG-SFT-301,Emergency LOTO & Grounding,Safety,,Completed,Completed,02-01-2026,06-01-2026,55000.0,0.0,TBD,James Wilson,False
+SG_FRC_2026,South Gen Unit 1,SG-GEN-301,Exciter Housing Removal,Generator,,Completed,Completed,02-01-2026,06-01-2026,55000.0,0.0,TBD,James Wilson,False
+SG_FRC_2026,South Gen Unit 1,SG-GEN-302,Diode Wheel Testing & Replacement,Generator,,Completed,Completed,02-01-2026,06-01-2026,55000.0,0.0,TBD,James Wilson,False
+SG_FRC_2026,South Gen Unit 1,SG-GEN-303,System Reassembly & Megger Test,Generator,,Completed,Completed,02-01-2026,06-01-2026,55000.0,0.0,TBD,James Wilson,False
+SG_HGP_2026,South Gen Unit 1,SG-SFT-101,LOTO & Boundary Definition,Safety,,Planned,Planned,05-10-2026,19-11-2026,2737500.0,0.0,TBD,William Carter,False
+SG_HGP_2026,South Gen Unit 1,SG-SFT-102,Confined Space Ventilation Setup,Safety,,Planned,Planned,05-10-2026,19-11-2026,2737500.0,0.0,TBD,William Carter,False
+SG_HGP_2026,South Gen Unit 1,SG-GT-101,Turbine Shell Removal,Gas Turbine,,Planned,Planned,05-10-2026,19-11-2026,2737500.0,0.0,TBD,William Carter,False
+SG_HGP_2026,South Gen Unit 1,SG-GT-102,Stage 1-3 Bucket Inspection,Gas Turbine,,Planned,Planned,05-10-2026,19-11-2026,2737500.0,0.0,TBD,William Carter,False
+SG_HGP_2026,South Gen Unit 1,SG-GT-103,Fuel Nozzle Flow Testing,Gas Turbine,,Planned,Planned,05-10-2026,19-11-2026,2737500.0,0.0,TBD,William Carter,False
+SG_HGP_2026,South Gen Unit 1,SG-HRSG-101,Duct Burner Visual Check,HRSG,,Planned,Planned,05-10-2026,19-11-2026,2737500.0,0.0,TBD,William Carter,False
+SG_HGP_2026,South Gen Unit 1,SG-HRSG-102,Ammonia Injection Grid Tuning,HRSG,,Planned,Planned,05-10-2026,19-11-2026,2737500.0,0.0,TBD,William Carter,False
+SG_HGP_2026,South Gen Unit 1,SG-BOP-101,CEMS Analyzer Calibration,BOP,,Planned,Planned,05-10-2026,19-11-2026,2737500.0,0.0,TBD,William Carter,False
+CB_MO_2027,Coast BaseLoad,CB-SFT-001,Site Security & Access Control Setup,Safety,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-SFT-002,LOTO Verification & Walkdown,Safety,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-SFT-003,Confined Space Rescue Plan Activation,Safety,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-SFT-004,Scaffolding Audit & Tagging,Safety,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-SFT-005,Hot Work Permitting Station Setup,Safety,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-SFT-006,Air Quality Monitoring Setup,Safety,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-GEN-001,Generator Seal Oil System Flush,Generator,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-GEN-002,Stator Winding Inspection (Robotic),Generator,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-GEN-003,Rotor Retaining Ring NDT,Generator,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-GEN-004,Exciter Diode Wheel Refurbishment,Generator,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-ST-001,Steam Turbine Stop Valve Disassembly,Steam Turbine,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-ST-002,HP/IP Section Shell Removal,Steam Turbine,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-ST-003,Bearings & Seals Replacement,Steam Turbine,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-GT-001,Gas Turbine Casing Removal,Gas Turbine,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-GT-002,Compressor IGV Bushing Replacement,Gas Turbine,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-GT-003,Combustion Liner & TP Replacement,Gas Turbine,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-HRSG-001,HP Evaporator Tube Thickness Check,HRSG,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-HRSG-002,Superheater Coil Alignment Check,HRSG,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-HRSG-003,Duct Burner Runner Inspection,HRSG,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-HRSG-004,SCR Catalyst Block Sampling,HRSG,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-HRSG-005,Expansion Joint Fabric Replacement,HRSG,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-HRSG-006,Blowdown Valve Seat Lapping,HRSG,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-BOP-001,Water Treatment Plant Resin Replacement,BOP,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-BOP-002,Cooling Tower Fan Gearbox Inspection,BOP,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-BOP-003,Main Transformer Bushing Oil Sampling,BOP,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-BOP-004,Condenser Pump Vibration Analysis,BOP,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False
+CB_MO_2027,Coast BaseLoad,CB-BOP-005,Waste Disposal Logistics Setup,BOP,,Planned,Planned,01-08-2027,30-10-2027,1925925.93,0.0,TBD,Emily Zhang,False

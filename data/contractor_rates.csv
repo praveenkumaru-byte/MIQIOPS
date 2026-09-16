@@ -1,0 +1,81 @@
+Emp ID,Name,Firm,Role,Standard Rate ($/hr),Overtime Rate ($/hr)
+C-1000,Worker_1,PrimeFix Solutions,Millwright,88.96,133.44
+C-1001,Worker_2,Apex Industrial,General Labor,50.31,75.47
+C-1002,Worker_3,Atlas Heavy Eng,NDT Inspector,113.48,170.22
+C-1003,Worker_4,Summit Field Techs,Millwright,85.28,127.92
+C-1004,Worker_5,Midwest Mech Pros,Controls Tech,125.18,187.77
+C-1005,Worker_6,Atlas Heavy Eng,Millwright,75.61,113.41
+C-1006,Worker_7,Apex Industrial,Field Engineer,171.03,171.03
+C-1007,Worker_8,Precision Welding,Crane Operator,91.95,137.93
+C-1008,Worker_9,Apex Industrial,Safety Officer,84.69,105.86
+C-1009,Worker_10,PrimeFix Solutions,NDT Inspector,132.86,199.29
+C-1010,Worker_11,PrimeFix Solutions,Field Engineer,198.94,198.94
+C-1011,Worker_12,Midwest Mech Pros,General Labor,52.51,78.77
+C-1012,Worker_13,Midwest Mech Pros,Controls Tech,128.58,192.87
+C-1013,Worker_14,Atlas Heavy Eng,Safety Officer,72.65,90.81
+C-1014,Worker_15,Midwest Mech Pros,NDT Inspector,128.31,192.47
+C-1015,Worker_16,Atlas Heavy Eng,Controls Tech,153.51,230.26
+C-1016,Worker_17,PrimeFix Solutions,Crane Operator,110.49,165.73
+C-1017,Worker_18,Summit Field Techs,Crane Operator,106.45,159.68
+C-1018,Worker_19,Atlas Heavy Eng,Controls Tech,141.71,212.56
+C-1019,Worker_20,Midwest Mech Pros,Controls Tech,133.46,200.19
+C-1020,Worker_21,Midwest Mech Pros,Field Engineer,151.29,151.29
+C-1021,Worker_22,Summit Field Techs,Millwright,84.23,126.34
+C-1022,Worker_23,Summit Field Techs,Welder (Code),110.28,165.42
+C-1023,Worker_24,Summit Field Techs,Field Engineer,199.64,199.64
+C-1024,Worker_25,Apex Industrial,Millwright,93.11,139.66
+C-1025,Worker_26,Apex Industrial,Welder (Code),97.65,146.48
+C-1026,Worker_27,Precision Welding,Controls Tech,130.3,195.45
+C-1027,Worker_28,Precision Welding,Crane Operator,109.43,164.15
+C-1028,Worker_29,Midwest Mech Pros,Field Engineer,183.97,183.97
+C-1029,Worker_30,Midwest Mech Pros,Controls Tech,126.64,189.96
+C-1030,Worker_31,Summit Field Techs,Millwright,78.96,118.44
+C-1031,Worker_32,Summit Field Techs,Crane Operator,93.26,139.89
+C-1032,Worker_33,Precision Welding,Safety Officer,79.25,99.06
+C-1033,Worker_34,Midwest Mech Pros,NDT Inspector,139.44,209.16
+C-1034,Worker_35,Atlas Heavy Eng,Safety Officer,71.77,89.71
+C-1035,Worker_36,Summit Field Techs,General Labor,46.17,69.25
+C-1036,Worker_37,Summit Field Techs,NDT Inspector,131.79,197.69
+C-1037,Worker_38,PrimeFix Solutions,Controls Tech,138.89,208.33
+C-1038,Worker_39,Atlas Heavy Eng,NDT Inspector,120.65,180.98
+C-1039,Worker_40,PrimeFix Solutions,Field Engineer,189.69,189.69
+C-1040,Worker_41,Atlas Heavy Eng,Crane Operator,106.36,159.54
+C-1041,Worker_42,Precision Welding,Millwright,88.97,133.45
+C-1042,Worker_43,PrimeFix Solutions,General Labor,52.15,78.22
+C-1043,Worker_44,Apex Industrial,Crane Operator,102.91,154.37
+C-1044,Worker_45,Apex Industrial,Controls Tech,127.01,190.52
+C-1045,Worker_46,Midwest Mech Pros,Crane Operator,105.15,157.73
+C-1046,Worker_47,Precision Welding,General Labor,53.48,80.22
+C-1047,Worker_48,Atlas Heavy Eng,Millwright,76.38,114.57
+C-1048,Worker_49,Summit Field Techs,NDT Inspector,134.23,201.34
+C-1049,Worker_50,PrimeFix Solutions,Controls Tech,139.81,209.72
+C-1050,Worker_51,Apex Industrial,NDT Inspector,131.08,196.62
+C-1051,Worker_52,Apex Industrial,Crane Operator,106.82,160.23
+C-1052,Worker_53,PrimeFix Solutions,General Labor,45.16,67.74
+C-1053,Worker_54,Precision Welding,Millwright,81.55,122.32
+C-1054,Worker_55,Midwest Mech Pros,General Labor,49.82,74.73
+C-1055,Worker_56,PrimeFix Solutions,Crane Operator,104.91,157.37
+C-1056,Worker_57,Apex Industrial,Welder (Code),115.3,172.95
+C-1057,Worker_58,PrimeFix Solutions,NDT Inspector,123.62,185.43
+C-1058,Worker_59,Midwest Mech Pros,Controls Tech,159.12,238.68
+C-1059,Worker_60,PrimeFix Solutions,Field Engineer,152.5,152.5
+C-1060,Worker_61,Summit Field Techs,General Labor,58.31,87.47
+C-1061,Worker_62,Precision Welding,NDT Inspector,114.77,172.16
+C-1062,Worker_63,PrimeFix Solutions,General Labor,47.27,70.91
+C-1063,Worker_64,Summit Field Techs,Welder (Code),105.85,158.77
+C-1064,Worker_65,Precision Welding,Welder (Code),107.33,161.0
+C-1065,Worker_66,PrimeFix Solutions,Safety Officer,82.36,102.95
+C-1066,Worker_67,Apex Industrial,General Labor,48.55,72.82
+C-1067,Worker_68,PrimeFix Solutions,Millwright,90.9,136.35
+C-1068,Worker_69,Atlas Heavy Eng,NDT Inspector,136.4,204.6
+C-1069,Worker_70,Precision Welding,Safety Officer,65.28,81.6
+C-1070,Worker_71,Precision Welding,Welder (Code),102.25,153.38
+C-1071,Worker_72,PrimeFix Solutions,Crane Operator,98.86,148.29
+C-1072,Worker_73,Apex Industrial,Crane Operator,94.21,141.31
+C-1073,Worker_74,Precision Welding,General Labor,47.2,70.8
+C-1074,Worker_75,Apex Industrial,Controls Tech,139.45,209.17
+C-1075,Worker_76,PrimeFix Solutions,Controls Tech,147.77,221.66
+C-1076,Worker_77,Apex Industrial,Safety Officer,79.92,99.9
+C-1077,Worker_78,Precision Welding,Safety Officer,71.34,89.18
+C-1078,Worker_79,Atlas Heavy Eng,Millwright,86.93,130.4
+C-1079,Worker_80,Precision Welding,Crane Operator,95.18,142.77
